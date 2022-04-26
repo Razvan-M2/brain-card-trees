@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
+A small react + express project which integrates the braintree API for credit card online purchases.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The `/server` folder contains the components for a small express back-end of this project.
 
 ## Available Scripts
 
@@ -30,6 +32,11 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+
+
+### `npm run server`
+
+Starts the express back-end of the project.
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
